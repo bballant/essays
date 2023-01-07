@@ -26,7 +26,7 @@ tell you most of what you need to know about a function. There's even
 a handy on-line tool, [Hoogle](http://hoogle.haskell.org), where you can plug
 in the type signature you want, and get a list of functions across a myriad of
 libraries that will do that thing. Usually the first result is exactly what you
-want.
+were looking for.
 
 Because I had never encountered anything as expressive at the type level as
 Haskell, I found it difficult to map Haskell types to something
@@ -45,7 +45,7 @@ without touching that mythical Monad. This may be technically correct, in the
 sense that simple Haskell is likely Turing-complete, but practically this is
 nonsense. In my PDF copy, which I bought soon after it came out (it may have even
 been a pre-release version), the
-chapter on Monads starts at page 1140 and ends on page 1211. So, if we're being
+chapter on Monads starts on page 1140 and ends on page 1211. So, if we're being
 straight with each other, you really need to _go through_ (not just read) around
 1200 pages of this Haskell book to be able to do anything acutally useful in the
 language.
@@ -60,5 +60,5 @@ way that I had not seen before, after reading those chapters.
 I did not engage with another Haskell book or learning resource in nearly as much depth
 as I did with this one, but in my Haskell studies, no resource or tutorial came close to this
 book. The authors do a wonderful job of building up understanding of complex concepts
-from their foundations. It's up to the reader to take their time to get the most of
+from their foundations. It's up to the reader to take their time to get the most out of
 and enjoy the challenging journey. Good luck!
