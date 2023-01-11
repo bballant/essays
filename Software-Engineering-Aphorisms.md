@@ -39,7 +39,15 @@ The one I probably repeat to project management types the most after reciting Ho
 
 _The last 10% of the project takes 90% of the time._
 
-Finally, my very favorite comes from yet another former boss:
+This breakdown is worse if you're trying to get the first version out:
+
+_Shipping V1 is almost impossible._
+
+And sometimes it takes backtracking on weeks of work. But we celebrate deleting code because we know:
+
+_Software development is a (non-linear) process._
+
+Finally, my very favorite aphorism comes from yet another former boss:
 
 _More typing leads to more bugs._
 
