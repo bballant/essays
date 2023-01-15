@@ -2,7 +2,6 @@
 
 * [Software Engineering Aphorisms](Software-Engineering-Aphorisms.md)
 * [Book Report: _Effective C_](Book-Report-Effective-C-2023-01-06.md)
-* [Notes On Go From An Observer](Notes-On-Go-From-An-Observer.md)
 * [Book Report: _Haskell Programming From First Principles_](Book-Report-Haskell-Programming-From-First-Principles.md)
 
 ### Very Old Posts
