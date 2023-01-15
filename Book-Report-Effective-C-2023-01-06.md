@@ -13,7 +13,7 @@ read! It's not necessarily _readable_ because of the subject matter, but I was v
 interested in re-learning some C quickly while I was going through other excercise-
 oriented books on microcontroller development ([Begining STM32](https://www.apress.com/9781484236239)).
 
-_Effective C_'s straighforward approach and no real need for a nearby laptop
+_Effective C_'s straighforward approach 
 made the book easy to pick up. It is organized as you might expect, taking
 you through some practicals on editors and compilers, then through types,
 expressions, control flow, memory, strings, I/O, preprocessor/macros, program
@@ -21,8 +21,7 @@ structure, and debugging.
 
 The book provides information and examples for gcc, clang, and Visual C++. I am
 not really interested in Windows programming, but I still enjoyed reading about
-the different approaches. Dealing with three compilers didn't create too much
-extra cruft for the book. For times when I did try out the example code, I used gcc.
+the different approaches. For times when I did try out the example code, I used gcc.
 In some places, like in the discussion of debugging, one or another of the
 platforms was used to illustrate the point. Therefore, to my surprise, GDB wasn't
  even mentioned in the debug section.
@@ -32,9 +31,8 @@ in chapter 8 in a way that had me flipping back to find where the author had
 explained it earlier--he hadn't.
 
 My experience with C is spotty. It was the main language I used in college, but
-professionally I can't remember using it. The closest I've gotten to writing C
-in the last two decades was a couple year stint doing C# and a year or so of
-being involved with an interactive art C++ framwork called [OpenFrameworks](https://openframeworks.cc/). I am,
+professionally I can't remember using it. I've used some notable C successors,
+like C++ and C# professionally, but not the OG. I am,
 however, a Linux freak so I've downloaded, compiled, and used many many C applications
 without touching the code. Recently I've been messing around with microcontrollers,
 and C is the main language in the embedded world.
