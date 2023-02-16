@@ -37,15 +37,13 @@ however, a Linux freak so I've downloaded, compiled, and used many many C applic
 without touching the code. Recently I've been messing around with microcontrollers,
 and C is the main language in the embedded world.
 
-When I first started playing with microcontrollers, it was clear early on that
-they are just big, complex, state machines. Most microcontroller code (at least
-at the hobbiest/beginner level) is just managing that state. Push some bits into
-a register and let the clock tick.
+I'm not sure if this is reflective of C's attributes, microcontrollers, computers
+themselves, or how C and computers came about together, but at this level, CPUs and
+microcontrollers feel a lot like big complex state machines (and nothing more!).
+A lot of microcontroller code (at least at the hobbiest/beginner level) is just managing
+that state. Push some bits into a register and let the clock tick.
 
-As I started digging into C for itself, on my laptop, I started to feel like
-my computer is just one big state machine. For a kool-aide's-been-drunk functional
-programmer like myself, this was a little hard to take at first. My computer
-was starting to feel like a house of cards.
+The whole thing makes me a bit uneasy. It's more fragile than I imagined.
 
 It's clear parts of C are a mess. The chapter on strings is almost explicit about
 this fact. Here's a dumb thing that probably smells like air to the daily C
@@ -60,5 +58,5 @@ Windows alternatives to unsafe standard functions and showed how to prevent over
 in your own code. After reading _Effective C_ I feel like I could build something
 complex, safe, and "professional" in the C programming language. C now feels to
 me like a simple (and fun but I usually find programming fun), albeit dangerous,
-tool for manipulating that big state machine in my laptop.
+tool for manipulating the complex state machine in my laptop.
 
